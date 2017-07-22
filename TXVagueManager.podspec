@@ -1,8 +1,8 @@
 
 Pod::Spec.new do |s|
   s.name         = 'TXVagueManager'
-  s.version      = '0.0.2'
-  s.summary      = '一个版本更新管理器。'
+  s.version      = ‘0.0.3’
+  s.summary      = '一句代码让你的APP具备和支付宝一样的后台模糊效果。'
   s.description  = <<-DESC
 			这是一个版本更新控制器。
                    DESC

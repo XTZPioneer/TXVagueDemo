@@ -7,7 +7,6 @@
 //
 
 #import "AppDelegate.h"
-#import "TXVague.h"
 #import "TXVagueManager.h"
 @interface AppDelegate ()
 
